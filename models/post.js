@@ -24,5 +24,5 @@ postedBy:{
 }
 
 
-})
+},{timestamps:true})
 mongoose.model("Post",postSchema)
